@@ -1,4 +1,4 @@
-# NoSQL-social
+# JATE
 
 This is a simple PWA project that is a text editor being used as an installed application.
 
